@@ -1,0 +1,14 @@
+{
+    "require": {
+        "react/http": "^0.8.4",
+        "react/child-process": "^0.6.1",
+        "firebase/php-jwt": "^5.0",
+        "react/promise-stream": "^1.1",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
